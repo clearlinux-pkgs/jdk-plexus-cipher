@@ -1,0 +1,8 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+jdk-forge-parent
+jdk-glassfish-el-api
+jdk-glassfish-interceptor-api
+jdk-maven-javadoc-plugin
+jdk-sisu-mojos
+jdk-spice-parent

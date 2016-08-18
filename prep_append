@@ -1,0 +1,5 @@
+python3 /usr/share/java-utils/pom_editor.py pom_xpath_replace  pom:project/pom:version "<version>1.7</version>"
+python3 /usr/share/java-utils/pom_editor.py pom_remove_dep org.sonatype.sisu:sisu-inject-bean
+python3 /usr/share/java-utils/pom_editor.py pom_add_dep        javax.inject:javax.inject:1:provided
+python3 /usr/share/java-utils/pom_editor.py pom_add_dep        javax.enterprise:cdi-api:1.0:provided
+python3 /usr/share/java-utils/mvn_file.py : plexus/plexus-cipher
