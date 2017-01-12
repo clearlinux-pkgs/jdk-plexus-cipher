@@ -4,7 +4,7 @@
 #
 Name     : jdk-plexus-cipher
 Version  : 1.7
-Release  : 1
+Release  : 2
 URL      : https://github.com/sonatype/plexus-cipher/archive/plexus-cipher-1.7.tar.gz
 Source0  : https://github.com/sonatype/plexus-cipher/archive/plexus-cipher-1.7.tar.gz
 Summary  : No detailed summary available
